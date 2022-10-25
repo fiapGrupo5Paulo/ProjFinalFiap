@@ -1,0 +1,22 @@
+{
+  "name": "projeto-final",
+  "version": "1.0.0",
+  "description": "Projeto Final",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiapGrupo5Paulo/ProjFinalFiap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiapGrupo5Paulo/ProjFinalFiap/issues"
+  },
+  "homepage": "https://github.com/fiapGrupo5Paulo/ProjFinalFiap#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
